@@ -13,3 +13,12 @@
   .dsmeta-red-btn img {
       width: 19px;
   }
+
+  .dsmeta-red-btn-container {
+    display: flex;
+    justify-content: center;
+}
+.ds-meta-red-container {
+    display: flex;
+    justify-content: center;
+}
