@@ -1,4 +1,4 @@
-package com.Aureliano.alencar.dsmeta;
+package com.aureliano.alencar.dsmeta;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

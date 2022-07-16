@@ -9,13 +9,13 @@
 		<version>2.7.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Aureliano.alencar</groupId>
+	<groupId>com.aureliano.alencar</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description> project for Spring Boot</description>
+	<description>projeto treinamento </description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
